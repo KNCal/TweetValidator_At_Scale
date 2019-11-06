@@ -1,0 +1,5 @@
+349 test tweets for @sharethis and others.
+TPR (for fraud ID):0.90
+FPR               :0.20
+Precision, recall for classes other, user:
+(array([0.81818182, 0.8913738 ]), array([0.9025788 , 0.79942693]))
